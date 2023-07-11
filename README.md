@@ -1,4 +1,4 @@
-- 🤠 Howdy! I’m David Higgins @DavidHigpen
+- 🤠 Howdy! David Higgins here @DavidHigpen
 - 👍 Texas A&M Computer Science '26
 - 🖥️ Working on projects for fun and for classes
 
